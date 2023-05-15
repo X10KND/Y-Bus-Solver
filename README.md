@@ -6,12 +6,12 @@ This project is made to solve Y Bus Matrix for a given power system.
 
 ## Instructions
 
-`input.txt` format:
+`input.txt` format:  
 Number of buses  
 Number of rows of data
 
-For each row, specify
-(From bus) (To bus) (R in pu) (X in pu) (B in pu)
+For each row, specify  
+`From bus` `To bus` `R in pu` `X in pu` `B in pu`
 
 Example math problem:
 
